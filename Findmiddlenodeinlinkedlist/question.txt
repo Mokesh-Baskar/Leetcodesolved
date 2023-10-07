@@ -1,1 +1,0 @@
-Given a linkedlist please find the middle node in the list 
